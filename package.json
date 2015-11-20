@@ -1,0 +1,21 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "git": "^0.1.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
